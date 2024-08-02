@@ -1,1 +1,1 @@
-# KTB-WN
+# Kakao Tech Bootcamp Writing Note
