@@ -75,7 +75,7 @@
     - YUM/DNF
     
 
-<img src="../img/0705-1.png">
+<img src="./img/0705-1.png">
 
 
 ## Linux에서의 권한 및 소유자
@@ -197,7 +197,7 @@ test.sh
 
 ## 리눅스 파일 시스템 비교
 
-<img src="../img//0705-2.png" width="200" height="200">
+<img src="./img//0705-2.png" >
 
 - 실습 - lsblk 명령어 등 파일 시스템 형식 확인
 ```
